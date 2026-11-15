@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "UI.h"
+#include "bills_history"
 #define red     "\033[31m"
 #define green   "\033[32m"
 #define yellow  "\033[33m"
